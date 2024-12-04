@@ -2,7 +2,7 @@
 
 A React application demonstrating core concepts including components, JSX, props, and state management with an interactive UI.
 
-![Project Screenshot](https://imgur.com/a/xDO7csT)
+![Project Screenshot](https://imgur.com/a/xDO7csT.png)
 
 ## Technologies Used
 
